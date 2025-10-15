@@ -1,0 +1,12 @@
+{
+  "name": "proyecto-3-gesti-n-de-gimnasio-2025-p-programaci-n-back-end-ti3v41-v-b50-n4-p14-c1-v-renca-b5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
